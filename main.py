@@ -1,5 +1,5 @@
 def main():
-    print("ini project yang akan di simpan ke git hub")
+    print("halo github, ini perubahan pertama")
 
 
 if __name__ == "__main__":
